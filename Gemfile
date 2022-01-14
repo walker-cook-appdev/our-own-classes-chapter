@@ -10,3 +10,8 @@ gem "rake"
 group :test do
   gem 'rspec'
 end
+
+group :development do 
+  gem 'rufo'
+end 
+
